@@ -26,11 +26,11 @@
     "resend.js"
   ],
   "eventDisabled": [],
-  "OWNER": "OWNER OF BOT",
-  "BOTNAME": "BOTNAME HERE",
-  "PREFIX": "?",
+  "OWNER": "chilli",
+  "BOTNAME": "chilli bot",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "UID HERE ADMIN",
+    "100087212564100",
     ""
   ],
   "DESIGN": {
@@ -63,7 +63,7 @@
     "cooldownTime": 1200000
   },
   "help": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "delayUnsend": 60
   },
   "adminUpdate": {
